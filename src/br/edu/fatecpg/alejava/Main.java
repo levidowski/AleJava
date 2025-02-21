@@ -3,7 +3,7 @@ package br.edu.fatecpg.alejava;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Primeira modificação");
 
 	}
 
