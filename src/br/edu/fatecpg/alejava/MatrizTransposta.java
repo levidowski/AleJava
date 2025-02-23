@@ -3,7 +3,7 @@ package br.edu.fatecpg.vetor;
 import java.util.Scanner;
 
 public class Main {
-
+	//3
 	//Desenvolva um código que realiza a transposição de uma matriz
 	//(as colunas viram linhas e as linhas viram colunas).
 	// Peça aos usuários para inserirem
