@@ -1,3 +1,5 @@
+// 1) SOMA DE MATRIZES ======================================================
+
 package br.edu.fatecpg.alejava;
 
 import java.util.Scanner;
@@ -5,7 +7,6 @@ import java.util.Scanner;
 public class RepeticaoeMatriz {
     public static void main(String[] args) {
         
-
         int[][] matrizA = new int[3][3];
         int[][] matrizB = new int[3][3];
         int[][] matrizR = new int[3][3];
