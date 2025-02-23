@@ -39,7 +39,7 @@ public class RepeticaoeMatriz {
         System.out.println("Matriz Resultado (Soma de A + B): ");
         for (int l = 0; l < 3; l++) { 
             for (int c = 0; c < 3; c++) { 
-                System.out.print(matrizR[l][c] + "\t");
+                System.out.print(matriz[c][l] + "\t");
             }
             System.out.println(); 
         }
