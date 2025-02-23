@@ -1,9 +1,12 @@
+//3) TRANSPOSIÇÃO DE MATRIZ: ====================================================== 
+
+
 package br.edu.fatecpg.vetor;
 
 import java.util.Scanner;
 
 public class Main {
-	//3
+	//3 Transposição de Matriz:
 	//Desenvolva um código que realiza a transposição de uma matriz
 	//(as colunas viram linhas e as linhas viram colunas).
 	// Peça aos usuários para inserirem
